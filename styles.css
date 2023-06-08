@@ -1,0 +1,7 @@
+:root{
+    --color:rgb(178, 189, 241);
+}
+body{
+    background-color: var(--color);
+    text-align: center;
+}
